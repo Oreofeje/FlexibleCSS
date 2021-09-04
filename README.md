@@ -1,2 +1,2 @@
 # FlexibleCSS
-Apractice of css flex
+A practice of css flex
